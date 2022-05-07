@@ -13,6 +13,11 @@ and the Flutter guide for
 
 ![Pub Version](https://img.shields.io/pub/v/video_url_validator?color=blue&label=pub)
 
+![Dart Version](https://img.shields.io/badge/dart-v2.16.1-blue)
+
+
+
+
 ## Features
 
 Video URL Validator validates URLs from Popular Video Platforms
