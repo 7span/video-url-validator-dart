@@ -11,12 +11,19 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+![Pub Version](https://img.shields.io/pub/v/video_url_validator?color=blue&label=pub)
 
 ## Features
 
 Video URL Validator validates URLs from Popular Video Platforms
+
+### Platforms Supported
+
+- Youtube
+- Facebook
+- Vimeo
+- Dailymotion
+- Wistia
 
 ## Usage
 
