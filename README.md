@@ -11,9 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-![Pub Version](https://img.shields.io/pub/v/video_url_validator?color=blue&label=pub)
-
-![Dart Version](https://img.shields.io/badge/dart-v2.16.1-blue)
+![Pub Version](https://img.shields.io/pub/v/video_url_validator?color=blue&label=pub)  ![Dart Version](https://img.shields.io/badge/dart-v2.16.1-blue)
 
 
 
