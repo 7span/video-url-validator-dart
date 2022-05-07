@@ -25,16 +25,20 @@ and the Flutter guide for
 
 ## Usage
 
-```dart
-var validator = VideoURLValidator();
+![Usage](https://ray.so/?title=&theme=raindrop&spacing=32&background=true&darkMode=true&code=dmFyIHZhbGlkYXRvciA9IFZpZGVvVVJMVmFsaWRhdG9yKCk7Cgp2YWxpZGF0b3IudmFsaWRhdGVZb3VUdWJlVmlkZW9VUkwodXJsOiAnaHR0cHM6Ly95b3V0dWJlLmNvbS93YXRjaD92PTIzNDMzJyk7Cgp2YWxpZGF0b3IudmFsaWRhdGVGYWNlQm9va1ZpZGVvVVJMKHVybDogJ2h0dHBzOi8vZmFjZWJvb2suY29tLycpOwoKdmFsaWRhdG9yLnZhbGlkYXRlVmltZW9WaWRlb1VSTCh1cmw6ICdodHRwczovL3ZpbWVvLmNvbS8xMjM0MzQzMicpOwoKdmFsaWRhdG9yLnZhbGlkYXRlRGFpbHlNb3Rpb25WaWRlb1VSTCh1cmw6ICdodHRwczovL2RhaS5seS8xMjMyMzQzMjQnKTsKCnZhbGlkYXRvci52YWxpZGF0ZVdpc3RpYVZpZGVvVVJMKHVybDogJ2h0dHBzOi8vaG9tZS53aXN0aWEuY29tL21lZGlhcy80MzQyMzQxMjMxJyk7&language=scala)
 
-validator.validateYouTubeVideoURL(url: 'https://youtube.com/watch?v=23433');
+[comment]: <> (```dart)
 
-validator.validateFaceBookVideoURL(url: 'https://facebook.com/');
+[comment]: <> (var validator = VideoURLValidator&#40;&#41;;)
 
-validator.validateVimeoVideoURL(url: 'https://vimeo.com/12343432');
+[comment]: <> (validator.validateYouTubeVideoURL&#40;url: 'https://youtube.com/watch?v=23433'&#41;;)
 
-validator.validateDailyMotionVideoURL(url: 'https://dai.ly/123234324');
+[comment]: <> (validator.validateFaceBookVideoURL&#40;url: 'https://facebook.com/'&#41;;)
 
-validator.validateWistiaVideoURL(url: 'https://home.wistia.com/medias/4342341231');
-```
+[comment]: <> (validator.validateVimeoVideoURL&#40;url: 'https://vimeo.com/12343432'&#41;;)
+
+[comment]: <> (validator.validateDailyMotionVideoURL&#40;url: 'https://dai.ly/123234324'&#41;;)
+
+[comment]: <> (validator.validateWistiaVideoURL&#40;url: 'https://home.wistia.com/medias/4342341231'&#41;;)
+
+[comment]: <> (```)
