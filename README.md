@@ -49,13 +49,13 @@ and the Flutter guide for
 ## Contributors
 
 [Mukund Jogi](https://www.linkedin.com/in/mukund-a-jogi/)
-<a href="https://twitter.com/mukundjogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milanpsurelia" height="18" width="28" /></a>
-<a href="https://linkedin.com/in/mukund-a-jogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milansurelia" height="18" width="28" /></a>
+<a href="https://twitter.com/mukundjogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter_logo" height="18" width="28" /></a>
+<a href="https://linkedin.com/in/mukund-a-jogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linedin_logo" height="18" width="28" /></a>
 
 
 [Milan Surelia](https://www.linkedin.com/in/milansurelia/)
-<a href="https://twitter.com/milanpsurelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milanpsurelia" height="18" width="28" /></a>
-<a href="https://linkedin.com/in/milansurelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milansurelia" height="18" width="28" /></a>
+<a href="https://twitter.com/milanpsurelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter_logo" height="18" width="28" /></a>
+<a href="https://linkedin.com/in/milansurelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linedin_logo" height="18" width="28" /></a>
 
 
 
