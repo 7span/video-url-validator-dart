@@ -51,6 +51,9 @@ and the Flutter guide for
 [Mukund Jogi](https://www.linkedin.com/in/mukund-a-jogi/)
 
 [Milan Surelia](https://www.linkedin.com/in/milansurelia/)
+<a href="https://twitter.com/milanpsurelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milanpsurelia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/milansurelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milansurelia" height="30" width="40" /></a>
+
 
 
 ### Having Issues
