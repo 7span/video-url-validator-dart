@@ -45,3 +45,21 @@ and the Flutter guide for
 [comment]: <> (validator.validateWistiaVideoURL&#40;url: 'https://home.wistia.com/medias/4342341231'&#41;;)
 
 [comment]: <> (```)
+
+## Contributors
+
+[Mukund Jogi](https://www.linkedin.com/in/mukund-a-jogi/)
+
+[Milan Surelia](https://www.linkedin.com/in/milansurelia/)
+
+
+### Having Issues
+
+File the Issue [here](https://github.com/7span/video-url-validator-dart/issues)
+
+### Looking to contribute to this package:
+
+**🤘🏻 Great!**
+Fork the [Repo](https://github.com/7span/video-url-validator-dart), Update Code, Send a PR. That's all you need to Contribute.
+
+
