@@ -59,13 +59,13 @@ and the Flutter guide for
 
 
 
-### Having Issues
+## Having Issues
 
 File the Issue [here](https://github.com/7span/video-url-validator-dart/issues)
 
-### Looking to contribute to this package:
+## Looking to contribute to this package:
 
 **🤘🏻 Great!**
-Fork the [Repo](https://github.com/7span/video-url-validator-dart), Update Code, Send a PR. That's all you need to Contribute.
+ Fork the [Repo](https://github.com/7span/video-url-validator-dart), Update Code, Send a PR. That's all you need to Contribute.
 
 
