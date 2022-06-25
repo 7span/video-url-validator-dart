@@ -1,3 +1,8 @@
+## 1.0.3
+
+- Updated Flutter Lint & Test Dependencies
+- Updated Contributors Section [README.md]
+
 ## 1.0.2
 
 - Updated README.md
