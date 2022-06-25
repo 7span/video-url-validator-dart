@@ -52,11 +52,13 @@ and the Flutter guide for
 <a href="https://twitter.com/mukundjogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter_logo" height="18" width="28" /></a>
 <a href="https://linkedin.com/in/mukund-a-jogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linedin_logo" height="18" width="28" /></a>
 
-
 [Milan Surelia](https://www.linkedin.com/in/milansurelia/)
 <a href="https://twitter.com/milanpsurelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter_logo" height="18" width="28" /></a>
 <a href="https://linkedin.com/in/milansurelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linedin_logo" height="18" width="28" /></a>
 
+[Parth Panchal](https://www.linkedin.com/in/parthpanchal8401/)
+<a href="https://twitter.com/hitchhickerrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter_logo" height="18" width="28" /></a>
+<a href="https://linkedin.com/in/parthpanchal8401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linedin_logo" height="18" width="28" /></a>
 
 
 ## Having Issues
@@ -66,6 +68,6 @@ File the Issue [here](https://github.com/7span/video-url-validator-dart/issues)
 ## Looking to contribute to this package:
 
 **🤘🏻 Great!**
- Fork the [Repo](https://github.com/7span/video-url-validator-dart), Update Code, Send a PR. That's all you need to Contribute.
+ Fork the [Repo](https://github.com/7span/video-url-validator-dart), Update Code, Write a meaningful Commit Message, Send a PR. That's all you need to Contribute.
 
 
