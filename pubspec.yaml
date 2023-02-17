@@ -1,6 +1,6 @@
 name: video_url_validator
 description: Video URL Validator will validate Video URLs from Popular Video Platforms.
-version: 1.0.2
+version: 1.0.3
 homepage: https://github.com/7span/video-url-validator-dart
 screenshots:
   - description: 'Usage: Video URL Validator'

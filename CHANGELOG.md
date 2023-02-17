@@ -1,10 +1,12 @@
 ## 1.0.3
 
-- Updated Flutter Lint & Test Dependencies
-- Updated Contributors Section [README.md]
+- Updated Dart Min. SDK Version
+- Added Screenshot for Package
 
 ## 1.0.2
 
+- Updated Flutter Lint & Test Dependencies
+- Updated Contributors Section [README.md]
 - Updated README.md
 
 ## 1.0.1
