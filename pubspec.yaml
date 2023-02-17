@@ -2,14 +2,13 @@ name: video_url_validator
 description: Video URL Validator will validate Video URLs from Popular Video Platforms.
 version: 1.0.2
 homepage: https://github.com/7span/video-url-validator-dart
+screenshots:
+  - description: 'Usage: Video URL Validator'
+    path: example/screenshots/example.webp
 
 environment:
-  sdk: '>=2.16.0 <3.0.0'
-
-
-# dependencies:
-#   path: ^1.8.0
+  sdk: '>=2.18.0 <3.0.0'
 
 dev_dependencies:
-  lints: ^2.0.0
-  test: ^1.21.3
+  lints: ^2.0.1
+  test: ^1.23.1
