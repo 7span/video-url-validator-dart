@@ -1,3 +1,7 @@
+## 1.0.4
+
+- Updated Dart Version Constraints and lints package version
+
 ## 1.0.3
 
 - Updated Dart Min. SDK Version
